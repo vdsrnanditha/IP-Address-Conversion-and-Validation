@@ -13,5 +13,5 @@ binary: converts an IP address to a binary string
 To use this module, you must have Python 3 installed on your system. You can install the module using pip or install the file in your local host.
 # Contributing  
 If you find a bug or have a suggestion for a new feature, please open an issue on the GitHub repository. Pull requests are also welcome
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
